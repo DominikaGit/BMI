@@ -1,0 +1,3 @@
+/home/dominika/GIT/BMI/cmake-build-debug/CMakeFiles/BMI.dir
+/home/dominika/GIT/BMI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dominika/GIT/BMI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
